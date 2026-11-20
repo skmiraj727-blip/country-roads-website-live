@@ -1,0 +1,6 @@
+{
+  "name": "Country Roads Resort & Events",
+  "description": "Premium countryside resort, guest stays, weddings, dining, and event destination in Raghudevpur, Howrah, West Bengal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

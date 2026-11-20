@@ -1,0 +1,238 @@
+MASTER PROMPT FOR GOOGLE AI STUDIO
+PROJECT: COUNTRY ROADS — PREMIUM RESORT, STAY & EVENTS WEBSITE
+
+Act as an award-winning creative director, senior UI/UX designer, brand strategist, conversion specialist and full-stack web developer. Design and build a complete, polished, production-quality website for COUNTRY ROADS, a countryside resort and event destination in Raghudevpur, Howrah, West Bengal, India.
+
+IMPORTANT: Build the actual working website in one go. Do not stop at a concept, moodboard, wireframe, static screenshot or landing-page mockup. Create the complete responsive website with all pages/sections, interactions, navigation, reusable components and functional contact/booking enquiry flows.
+
+1. BUSINESS CONTEXT
+
+Business name: Country Roads
+Business type: Countryside resort, hotel, restaurant, wedding venue and event destination.
+Location: Opposite Raghudevpur Gram Panchayat Office, Domjur–Bauria Road, Raghudevpur, Howrah, West Bengal 711322, India.
+Publicly listed contact number: +91 98362 85550
+Website reference: https://www.countryroads.co.in/
+Google Maps listing: https://maps.app.goo.gl/m7EMP1zmgXswbJVA8
+
+Position the brand as a green, nature-led escape near Kolkata where guests can stay, dine, celebrate and spend quality time. The website should communicate the feeling of escaping the city without travelling far.
+
+Business offerings to represent:
+- Resort stays and guest accommodation.
+- Weddings, receptions and celebrations.
+- Outdoor lawns, event spaces and banquet facilities.
+- Swimming pool and leisure experiences.
+- Restaurant and dining.
+- Corporate gatherings, meetings and group events.
+- Outdoor recreation and nature experiences such as cycling, jogging, birdwatching and games, where currently offered.
+
+Do not invent room categories, exact room counts, rates, package prices, event capacities, offers, policies, availability, awards, certifications or guarantees. If a detail is not confirmed, use “Enquire for details” or make it editable in a clearly marked content/configuration area. Do not publish contradictory or unverified figures from third-party listing sites. Use the official website and business-provided information as the source of truth.
+
+2. CREATIVE DIRECTION — FOLLOW THE PROVIDED VISUAL REFERENCE
+
+Use the uploaded reference image as the main visual and art-direction reference. It shows a cinematic luxury real-estate presentation with:
+- Dramatic landscape and architectural photography.
+- Oversized elegant typography.
+- Deep charcoal and forest-green tones.
+- Layered image compositions and editorial grids.
+- Fine borders, subtle translucent panels and restrained glow.
+- Strong visual hierarchy and generous spacing.
+
+Translate this design language into a resort and hospitality website. Do not copy the reference brand, text, logo or real-estate content. Create an original Country Roads identity.
+
+The result should feel premium, immersive, sophisticated, calm, nature-connected and memorable — not like a generic hotel template.
+
+3. VISUAL SYSTEM
+
+Colour palette:
+- Deep forest green as a key brand colour.
+- Charcoal / near-black for premium dark sections.
+- Warm ivory / off-white for contrast and readability.
+- Muted sage and stone-grey as supporting tones.
+- Restrained warm champagne / soft gold accents for small highlights only.
+
+Typography:
+- Pair an elegant editorial serif for selected large headings with a clean modern sans-serif for body copy and navigation.
+- Use oversized headlines with careful line breaks.
+- Keep body text highly readable on mobile and desktop.
+- Use refined letter spacing and clear hierarchy.
+
+Design details:
+- Full-bleed photography with carefully controlled dark overlays.
+- Asymmetrical editorial layouts and varied image proportions.
+- Large rounded or softly squared image frames, used consistently.
+- Thin borders, subtle dividers and restrained glass-like panels.
+- Beautiful whitespace and deliberate composition.
+- Avoid excessive gradients, neon colours, clutter, stock-template patterns and oversized pill buttons everywhere.
+
+4. WEBSITE STRUCTURE
+
+Build a complete multi-section website. Prefer a polished multi-page architecture if the environment supports routing; otherwise build a seamless long-form website with anchored navigation and distinct, well-designed sections.
+
+A. HOME / HERO
+- Full-screen or near-full-screen cinematic hero featuring the resort's greenery, water, pool, lawns or property.
+- Country Roads wordmark / text logo.
+- Minimal navigation: Home, Stay, Experiences, Dining, Weddings & Events, Gallery, Contact.
+- Main headline communicating a nature escape near Kolkata. Suggested direction: “A little closer to nature. A world away from the everyday.”
+- Short supporting description.
+- Primary CTA: “Explore Country Roads”.
+- Secondary CTA: “Plan Your Visit” or “Enquire Now”.
+- Elegant scroll indicator.
+- Add a small location cue: Raghudevpur, Howrah, West Bengal.
+
+B. INTRODUCTION / BRAND STORY
+- Editorial section introducing Country Roads as a nature-led resort and destination for stays, celebrations and gatherings.
+- Use atmospheric landscape photography.
+- Keep copy warm, inviting and concise.
+- Do not make unsupported claims.
+
+C. STAYS / ACCOMMODATION
+- Showcase accommodation with beautiful room and property imagery.
+- Use room cards or an editorial image grid.
+- Add room details only when verified.
+- CTA on each relevant card: “Enquire About Stay”.
+- Include a clear stay enquiry flow asking for check-in, check-out, number of guests and contact details.
+- Do not invent rates or room availability. State “Contact us for current rates and availability.”
+
+D. EXPERIENCES
+Create an attractive visual grid for verified experiences and facilities, such as:
+- Swimming pool.
+- Green open spaces and landscaped grounds.
+- Outdoor games and recreation.
+- Cycling, jogging or nature experiences.
+- Family and group leisure.
+Each card should have an image, short description and tasteful hover interaction. Only display activities that the business confirms are currently available.
+
+E. DINING
+- Give the restaurant and food experience a dedicated, appetising section.
+- Use high-quality food and dining photography.
+- Include restaurant details and cuisine information only if verified.
+- CTA: “Enquire About Dining”.
+- Do not invent menus, timings or prices.
+
+F. WEDDINGS & CELEBRATIONS
+- Make this one of the most visually impressive sections.
+- Showcase lawns, event spaces, décor, wedding moments and celebrations.
+- Communicate the venue's suitability for weddings, receptions, family celebrations and special occasions.
+- Use a premium photo-led layout with a strong headline.
+- CTA: “Plan Your Celebration”.
+- Add an event enquiry form with event type, preferred date, approximate guest count, name, phone and message.
+- Do not publish venue capacities or package prices unless supplied and confirmed by the business.
+
+G. CORPORATE & GROUP EVENTS
+- Dedicated section for corporate gatherings, meetings, team outings, reunions and group stays.
+- Use professional but warm photography.
+- CTA: “Discuss Your Event”.
+- Provide an enquiry form or link to the contact section.
+
+H. GALLERY
+- Responsive image gallery with categories such as Resort, Rooms, Pool, Dining, Weddings, Events and Nature.
+- Use real business photographs wherever available.
+- Include a clean lightbox interaction when an image is selected.
+- Do not use unrelated luxury villas or mountain architecture as if they were Country Roads.
+
+I. LOCATION
+- Communicate the resort's location in Raghudevpur, Howrah, West Bengal.
+- Add an embedded Google Map using the supplied Google Maps listing or a verified map embed.
+- Add a “Get Directions” link to:
+  https://maps.app.goo.gl/m7EMP1zmgXswbJVA8
+- Do not make precise travel-time claims unless verified.
+
+J. CONTACT / ENQUIRY
+- Display the business phone number: +91 98362 85550, subject to business confirmation before launch.
+- Provide click-to-call functionality using tel:+919836285550.
+- Provide a contact form with name, phone, email (optional), enquiry type and message.
+- Include clear enquiry CTAs throughout the website.
+- If WhatsApp is used, create a configurable WhatsApp number field and do not assume that the listed phone number is WhatsApp-enabled until confirmed.
+- Show the address clearly.
+- Add opening hours only after confirmation.
+
+K. FOOTER
+- Country Roads wordmark.
+- Short brand statement.
+- Quick navigation.
+- Contact details and address.
+- Social links only when verified.
+- Google Maps directions link.
+- Copyright line with current year.
+- Privacy policy link and enquiry details.
+
+5. FUNCTIONAL REQUIREMENTS
+
+- Every navigation item must work and lead to the correct page or section.
+- All CTA buttons must have real destinations or trigger a working enquiry interaction.
+- Forms must validate required fields and show clear success/error states.
+- Do not pretend a form has been submitted if no backend exists. If backend integration is unavailable, create a working front-end validation flow and clearly identify where to connect the form service/API.
+- Phone links must use the tel: protocol.
+- Maps directions must open the supplied Google Maps link.
+- Build reusable components for navigation, buttons, cards, forms, gallery and footer.
+- Add a mobile navigation menu.
+- Add accessible labels, keyboard focus states, semantic HTML and suitable colour contrast.
+- Optimise images and lazy-load below-the-fold media.
+- Add SEO title, meta description, Open Graph metadata and LocalBusiness / Hotel structured data using only verified facts.
+- Include a favicon / simple text-based brand mark if no official logo is supplied.
+
+6. ANIMATION & INTERACTION
+
+Use premium, restrained motion:
+- Smooth scrolling.
+- Elegant page/section reveal animations.
+- Subtle image zoom on hover.
+- Gentle parallax only where it does not harm performance.
+- Refined navigation transitions.
+- Tasteful button hover states.
+- Gallery lightbox transitions.
+- Small staggered entrances for card grids.
+- Optional subtle loading transition.
+
+Animations should feel cinematic and calm, never distracting. Respect prefers-reduced-motion and keep the website fast on mid-range Android phones.
+
+7. IMAGE DIRECTION
+
+Photography is essential to this design. Prioritise authentic Country Roads property photographs:
+- Resort aerials and wide landscape views.
+- Green lawns, trees and water features.
+- Actual guest rooms and accommodation.
+- Swimming pool.
+- Restaurant and food.
+- Real wedding and event setups.
+- Outdoor activities and gathering spaces.
+
+Use supplied business assets or verified images from official business sources when possible. If authentic images are not available, use tasteful temporary placeholders and label them clearly for replacement. Never present unrelated AI-generated or stock images as actual Country Roads facilities. Do not use the mountain villa imagery from the reference as if it depicts this property.
+
+8. RESPONSIVE DESIGN & PERFORMANCE
+
+- Design mobile-first, then scale beautifully to tablet and desktop.
+- On mobile, maintain readable typography, clean spacing and easy-to-tap controls.
+- Avoid horizontal overflow.
+- Optimise image sizes and formats.
+- Keep animations lightweight.
+- Ensure good Core Web Vitals and fast loading.
+- Test all sections at common mobile, tablet and desktop widths.
+
+9. CONTENT & BRAND VOICE
+
+Use polished, welcoming hospitality copy. The tone should be premium, warm, calm and confident — never exaggerated or overly salesy.
+
+Possible headline directions:
+- “Find Your Space to Unwind.”
+- “A Nature Escape, Closer Than You Think.”
+- “Stay a Little Longer. Celebrate a Little More.”
+- “Where Gatherings Become Memories.”
+
+Write original copy specifically for Country Roads. Do not copy text from the reference image or other resort websites. Avoid unsupported superlatives and promises.
+
+10. FINAL BUILD INSTRUCTIONS
+
+Before finishing:
+- Build every section and all responsive states.
+- Ensure there are no broken links, dead buttons, placeholder lorem ipsum paragraphs or unfinished sections.
+- Check spelling, contrast, spacing and alignment.
+- Make the home page visually impressive immediately, especially the hero section.
+- Ensure the website looks like a premium hospitality brand, not a generic hotel listing.
+- Keep all business facts, phone number, map link, social links, images and enquiry settings easy to edit in one central configuration/content area.
+- Clearly mark any details that require confirmation from the business owner.
+
+Deliver the complete working website, not just a design description. At the end, provide a concise summary of the pages/sections created, how to preview the site, and which business details or assets still need confirmation.
+
+FINAL CREATIVE GOAL:
+Create an immersive, cinematic, premium website for Country Roads that makes visitors want to explore the resort, enquire about a stay, plan a wedding or organise an event. Use the uploaded reference for its sophisticated art direction while making the visual identity unmistakably Country Roads.
