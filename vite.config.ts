@@ -54,3 +54,4 @@ export default defineConfig(() => {
     },
   };
 });
+Configure Vite for GitHub Pages
